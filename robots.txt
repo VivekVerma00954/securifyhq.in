@@ -2,4 +2,4 @@
 Allow: /
 Disallow: /coming-soon/
 
-Sitemap: https://securifyhq.com/sitemap.xml
+Sitemap: https://securifyhq.in/sitemap.xml
